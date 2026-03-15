@@ -1,0 +1,412 @@
+{
+  "version": 1,
+  "build_date": "2026-03-15",
+  "total_parsed": 2758371,
+  "music_entries": 1032767,
+  "deleted_skipped": 80414,
+  "build_time_sec": 1539,
+  "groups": {
+    "electronic": {
+      "name": "Электроника",
+      "categories": [
+        "electronic_industrial",
+        "electronic_ambient",
+        "electronic_dnb",
+        "electronic_trance",
+        "electronic_house"
+      ]
+    },
+    "hires": {
+      "name": "Hi-Res аудио",
+      "categories": [
+        "hires"
+      ]
+    },
+    "jazz_blues": {
+      "name": "Джаз и Блюз",
+      "categories": [
+        "blues_foreign",
+        "jazz_foreign",
+        "jazz_blues_domestic"
+      ]
+    },
+    "foreign": {
+      "name": "Зарубежная музыка",
+      "categories": [
+        "foreign_metal",
+        "foreign_rock",
+        "foreign_pop",
+        "foreign_alt_punk",
+        "reggae"
+      ]
+    },
+    "audiobooks": {
+      "name": "Аудиокниги",
+      "categories": [
+        "audiobooks"
+      ]
+    },
+    "domestic": {
+      "name": "Отечественная музыка",
+      "categories": [
+        "domestic_rock",
+        "domestic_pop",
+        "shanson",
+        "rap"
+      ]
+    },
+    "folk": {
+      "name": "Фольклор и этника",
+      "categories": [
+        "folk"
+      ]
+    },
+    "soundtracks": {
+      "name": "Саундтреки",
+      "categories": [
+        "soundtracks"
+      ]
+    },
+    "classical": {
+      "name": "Классика",
+      "categories": [
+        "classical"
+      ]
+    },
+    "other": {
+      "name": "Прочее",
+      "categories": [
+        "dj_sets",
+        "compilations",
+        "music_video"
+      ]
+    }
+  },
+  "categories": {
+    "electronic_industrial": {
+      "name": "Industrial, Noise, Synthpop",
+      "group": "electronic",
+      "file": "electronic_industrial.db.xz",
+      "db_file": "electronic_industrial.db",
+      "entries": 30651,
+      "size_bytes": 8155136,
+      "size_mb": 7.8,
+      "compressed_bytes": 3195812,
+      "compressed_mb": 3.0,
+      "magnet": "magnet:?xt=urn:btih:b1e9e5460c05bf114f3167483f733e00e19b2dee&dn=electronic_industrial.db.xz&xl=3195812&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+      "torrent_file": "electronic_industrial.db.xz.torrent"
+    },
+    "hires": {
+      "name": "Hi-Res и Lossless",
+      "group": "hires",
+      "file": "hires.db.xz",
+      "db_file": "hires.db",
+      "entries": 93931,
+      "size_bytes": 23621632,
+      "size_mb": 22.5,
+      "compressed_bytes": 9305400,
+      "compressed_mb": 8.9,
+      "magnet": "magnet:?xt=urn:btih:ea297cd09fadd45a382ab6d6f79d64d282de4c79&dn=hires.db.xz&xl=9305400&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+      "torrent_file": "hires.db.xz.torrent"
+    },
+    "blues_foreign": {
+      "name": "Зарубежный блюз",
+      "group": "jazz_blues",
+      "file": "blues_foreign.db.xz",
+      "db_file": "blues_foreign.db",
+      "entries": 31100,
+      "size_bytes": 7929856,
+      "size_mb": 7.6,
+      "compressed_bytes": 3067712,
+      "compressed_mb": 2.9,
+      "magnet": "magnet:?xt=urn:btih:bb02859ef12901f503591939fad21cbd69f7bfe8&dn=blues_foreign.db.xz&xl=3067712&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+      "torrent_file": "blues_foreign.db.xz.torrent"
+    },
+    "electronic_ambient": {
+      "name": "Ambient, Chillout, Downtempo",
+      "group": "electronic",
+      "file": "electronic_ambient.db.xz",
+      "db_file": "electronic_ambient.db",
+      "entries": 45710,
+      "size_bytes": 12439552,
+      "size_mb": 11.9,
+      "compressed_bytes": 4772452,
+      "compressed_mb": 4.6,
+      "magnet": "magnet:?xt=urn:btih:125cc52fecccaf87044302e51ff438b836cbc2b2&dn=electronic_ambient.db.xz&xl=4772452&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+      "torrent_file": "electronic_ambient.db.xz.torrent"
+    },
+    "foreign_metal": {
+      "name": "Зарубежный метал",
+      "group": "foreign",
+      "file": "foreign_metal.db.xz",
+      "db_file": "foreign_metal.db",
+      "entries": 106728,
+      "size_bytes": 26116096,
+      "size_mb": 24.9,
+      "compressed_bytes": 9596572,
+      "compressed_mb": 9.2,
+      "magnet": "magnet:?xt=urn:btih:2ee23f0481d346353385b2a773fccca972ee0353&dn=foreign_metal.db.xz&xl=9596572&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+      "torrent_file": "foreign_metal.db.xz.torrent"
+    },
+    "foreign_rock": {
+      "name": "Зарубежный рок",
+      "group": "foreign",
+      "file": "foreign_rock.db.xz",
+      "db_file": "foreign_rock.db",
+      "entries": 118150,
+      "size_bytes": 30195712,
+      "size_mb": 28.8,
+      "compressed_bytes": 11448448,
+      "compressed_mb": 10.9,
+      "magnet": "magnet:?xt=urn:btih:081c06efa08196b5102e30d2d15d53d231421525&dn=foreign_rock.db.xz&xl=11448448&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+      "torrent_file": "foreign_rock.db.xz.torrent"
+    },
+    "electronic_dnb": {
+      "name": "DnB, Jungle, Breakbeat, Dubstep",
+      "group": "electronic",
+      "file": "electronic_dnb.db.xz",
+      "db_file": "electronic_dnb.db",
+      "entries": 36205,
+      "size_bytes": 9404416,
+      "size_mb": 9.0,
+      "compressed_bytes": 3581816,
+      "compressed_mb": 3.4,
+      "magnet": "magnet:?xt=urn:btih:0a89a424f6ee0aedac8115bb014e39460240fdb3&dn=electronic_dnb.db.xz&xl=3581816&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+      "torrent_file": "electronic_dnb.db.xz.torrent"
+    },
+    "electronic_trance": {
+      "name": "Trance, Goa, PsyTrance",
+      "group": "electronic",
+      "file": "electronic_trance.db.xz",
+      "db_file": "electronic_trance.db",
+      "entries": 70880,
+      "size_bytes": 18292736,
+      "size_mb": 17.4,
+      "compressed_bytes": 6796532,
+      "compressed_mb": 6.5,
+      "magnet": "magnet:?xt=urn:btih:d0a034a0d37e6f74404396316d7551164b3180aa&dn=electronic_trance.db.xz&xl=6796532&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+      "torrent_file": "electronic_trance.db.xz.torrent"
+    },
+    "audiobooks": {
+      "name": "Аудиокниги",
+      "group": "audiobooks",
+      "file": "audiobooks.db.xz",
+      "db_file": "audiobooks.db",
+      "entries": 81338,
+      "size_bytes": 25538560,
+      "size_mb": 24.4,
+      "compressed_bytes": 8254076,
+      "compressed_mb": 7.9,
+      "magnet": "magnet:?xt=urn:btih:d643053e5260bd05f7f03979e5bf0f1379cf7e7f&dn=audiobooks.db.xz&xl=8254076&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+      "torrent_file": "audiobooks.db.xz.torrent"
+    },
+    "foreign_pop": {
+      "name": "Зарубежная поп-музыка",
+      "group": "foreign",
+      "file": "foreign_pop.db.xz",
+      "db_file": "foreign_pop.db",
+      "entries": 43360,
+      "size_bytes": 11161600,
+      "size_mb": 10.6,
+      "compressed_bytes": 4416476,
+      "compressed_mb": 4.2,
+      "magnet": "magnet:?xt=urn:btih:6fd53f4c8b098259e25b9c2b8cf49d921557195c&dn=foreign_pop.db.xz&xl=4416476&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+      "torrent_file": "foreign_pop.db.xz.torrent"
+    },
+    "domestic_rock": {
+      "name": "Отечественный рок и метал",
+      "group": "domestic",
+      "file": "domestic_rock.db.xz",
+      "db_file": "domestic_rock.db",
+      "entries": 34226,
+      "size_bytes": 9195520,
+      "size_mb": 8.8,
+      "compressed_bytes": 3563192,
+      "compressed_mb": 3.4,
+      "magnet": "magnet:?xt=urn:btih:35059b2b8611a6a48bcc66aa68a781a8af3caa69&dn=domestic_rock.db.xz&xl=3563192&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+      "torrent_file": "domestic_rock.db.xz.torrent"
+    },
+    "foreign_alt_punk": {
+      "name": "Альтернатива, панк, инди",
+      "group": "foreign",
+      "file": "foreign_alt_punk.db.xz",
+      "db_file": "foreign_alt_punk.db",
+      "entries": 81267,
+      "size_bytes": 20688896,
+      "size_mb": 19.7,
+      "compressed_bytes": 7897780,
+      "compressed_mb": 7.5,
+      "magnet": "magnet:?xt=urn:btih:ce35e41685dc162369691af57b8692e6b5e31746&dn=foreign_alt_punk.db.xz&xl=7897780&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+      "torrent_file": "foreign_alt_punk.db.xz.torrent"
+    },
+    "folk": {
+      "name": "Фольклор, народная, этническая",
+      "group": "folk",
+      "file": "folk.db.xz",
+      "db_file": "folk.db",
+      "entries": 31462,
+      "size_bytes": 8568832,
+      "size_mb": 8.2,
+      "compressed_bytes": 3431408,
+      "compressed_mb": 3.3,
+      "magnet": "magnet:?xt=urn:btih:63366955877bce11e79c9b62d7c17f43fd8cf1b3&dn=folk.db.xz&xl=3431408&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+      "torrent_file": "folk.db.xz.torrent"
+    },
+    "electronic_house": {
+      "name": "House, Techno, Hardcore",
+      "group": "electronic",
+      "file": "electronic_house.db.xz",
+      "db_file": "electronic_house.db",
+      "entries": 50520,
+      "size_bytes": 13561856,
+      "size_mb": 12.9,
+      "compressed_bytes": 5257864,
+      "compressed_mb": 5.0,
+      "magnet": "magnet:?xt=urn:btih:6b998ed67559b2cdeb70e50cce4f783184319cf6&dn=electronic_house.db.xz&xl=5257864&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+      "torrent_file": "electronic_house.db.xz.torrent"
+    },
+    "jazz_foreign": {
+      "name": "Зарубежный джаз",
+      "group": "jazz_blues",
+      "file": "jazz_foreign.db.xz",
+      "db_file": "jazz_foreign.db",
+      "entries": 83667,
+      "size_bytes": 23085056,
+      "size_mb": 22.0,
+      "compressed_bytes": 8748868,
+      "compressed_mb": 8.3,
+      "magnet": "magnet:?xt=urn:btih:6249bd78b742d7e37d58783e7ee015c875f0db05&dn=jazz_foreign.db.xz&xl=8748868&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+      "torrent_file": "jazz_foreign.db.xz.torrent"
+    },
+    "reggae": {
+      "name": "Reggae, Ska, Dub",
+      "group": "foreign",
+      "file": "reggae.db.xz",
+      "db_file": "reggae.db",
+      "entries": 7976,
+      "size_bytes": 2105344,
+      "size_mb": 2.0,
+      "compressed_bytes": 872720,
+      "compressed_mb": 0.8,
+      "magnet": "magnet:?xt=urn:btih:0613fa80e6887eaef821a0403e1a79df0b647688&dn=reggae.db.xz&xl=872720&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+      "torrent_file": "reggae.db.xz.torrent"
+    },
+    "domestic_pop": {
+      "name": "Отечественная поп-музыка",
+      "group": "domestic",
+      "file": "domestic_pop.db.xz",
+      "db_file": "domestic_pop.db",
+      "entries": 13343,
+      "size_bytes": 3743744,
+      "size_mb": 3.6,
+      "compressed_bytes": 1356532,
+      "compressed_mb": 1.3,
+      "magnet": "magnet:?xt=urn:btih:af8e39b7d269281ffcdb32366939243c0df67aa8&dn=domestic_pop.db.xz&xl=1356532&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+      "torrent_file": "domestic_pop.db.xz.torrent"
+    },
+    "soundtracks": {
+      "name": "Саундтреки",
+      "group": "soundtracks",
+      "file": "soundtracks.db.xz",
+      "db_file": "soundtracks.db",
+      "entries": 11811,
+      "size_bytes": 3964928,
+      "size_mb": 3.8,
+      "compressed_bytes": 1564312,
+      "compressed_mb": 1.5,
+      "magnet": "magnet:?xt=urn:btih:63837a33fe81e54550e935db8487385ee9a109d1&dn=soundtracks.db.xz&xl=1564312&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+      "torrent_file": "soundtracks.db.xz.torrent"
+    },
+    "classical": {
+      "name": "Классическая музыка",
+      "group": "classical",
+      "file": "classical.db.xz",
+      "db_file": "classical.db",
+      "entries": 44386,
+      "size_bytes": 18046976,
+      "size_mb": 17.2,
+      "compressed_bytes": 6914220,
+      "compressed_mb": 6.6,
+      "magnet": "magnet:?xt=urn:btih:d7e236655cbb585ea9ea93176254b7b8af561e6c&dn=classical.db.xz&xl=6914220&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+      "torrent_file": "classical.db.xz.torrent"
+    },
+    "jazz_blues_domestic": {
+      "name": "Отечественный джаз и блюз",
+      "group": "jazz_blues",
+      "file": "jazz_blues_domestic.db.xz",
+      "db_file": "jazz_blues_domestic.db",
+      "entries": 2091,
+      "size_bytes": 708608,
+      "size_mb": 0.7,
+      "compressed_bytes": 278568,
+      "compressed_mb": 0.3,
+      "magnet": "magnet:?xt=urn:btih:b090df5933b30c069b74e64fc974c7476e23e976&dn=jazz_blues_domestic.db.xz&xl=278568&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+      "torrent_file": "jazz_blues_domestic.db.xz.torrent"
+    },
+    "shanson": {
+      "name": "Шансон, авторская, военная песня",
+      "group": "domestic",
+      "file": "shanson.db.xz",
+      "db_file": "shanson.db",
+      "entries": 1414,
+      "size_bytes": 532480,
+      "size_mb": 0.5,
+      "compressed_bytes": 182700,
+      "compressed_mb": 0.2,
+      "magnet": "magnet:?xt=urn:btih:a728f64975a206dc33d88d099ff1faf5ed6a835b&dn=shanson.db.xz&xl=182700&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+      "torrent_file": "shanson.db.xz.torrent"
+    },
+    "dj_sets": {
+      "name": "DJ-сеты и миксы",
+      "group": "other",
+      "file": "dj_sets.db.xz",
+      "db_file": "dj_sets.db",
+      "entries": 650,
+      "size_bytes": 307200,
+      "size_mb": 0.3,
+      "compressed_bytes": 117264,
+      "compressed_mb": 0.1,
+      "magnet": "magnet:?xt=urn:btih:92b1090719053749ffc7c9104dc8a7a6e16c222b&dn=dj_sets.db.xz&xl=117264&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+      "torrent_file": "dj_sets.db.xz.torrent"
+    },
+    "rap": {
+      "name": "Рэп, хип-хоп",
+      "group": "domestic",
+      "file": "rap.db.xz",
+      "db_file": "rap.db",
+      "entries": 2362,
+      "size_bytes": 589824,
+      "size_mb": 0.6,
+      "compressed_bytes": 245200,
+      "compressed_mb": 0.2,
+      "magnet": "magnet:?xt=urn:btih:f9140b45badaaec050c0c4606ceb451ac4f977a6&dn=rap.db.xz&xl=245200&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+      "torrent_file": "rap.db.xz.torrent"
+    },
+    "compilations": {
+      "name": "Сборники и лейбл-паки",
+      "group": "other",
+      "file": "compilations.db.xz",
+      "db_file": "compilations.db",
+      "entries": 9538,
+      "size_bytes": 2895872,
+      "size_mb": 2.8,
+      "compressed_bytes": 1153492,
+      "compressed_mb": 1.1,
+      "magnet": "magnet:?xt=urn:btih:46006a9cabdcd14fe1e6940795eaf00f39ab2345&dn=compilations.db.xz&xl=1153492&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+      "torrent_file": "compilations.db.xz.torrent"
+    },
+    "music_video": {
+      "name": "Музыкальное видео",
+      "group": "other",
+      "file": "music_video.db.xz",
+      "db_file": "music_video.db",
+      "entries": 1,
+      "size_bytes": 24576,
+      "size_mb": 0.0,
+      "compressed_bytes": 924,
+      "compressed_mb": 0.0,
+      "magnet": "magnet:?xt=urn:btih:49a2bb1f7decd61343818949e2bdc5e89410183c&dn=music_video.db.xz&xl=924&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+      "torrent_file": "music_video.db.xz.torrent"
+    }
+  }
+}
